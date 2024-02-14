@@ -2,7 +2,7 @@
 # Business Website for CS20 HW2 
 
 # DONE: you must have at least 3 pages: a home page, a contact page and one other page.
-# TODO: Content must be realistic. Lorum Ipsum text is not acceptable. Ai generated content is ok but it MUST make sense. Ie, you will probably need to edit it.
+# DONE: Content must be realistic. Lorum Ipsum text is not acceptable. Ai generated content is ok but it MUST make sense. Ie, you will probably need to edit it.
 # TODO: You must have at least 10 CSS style rules
 # TODO: You must have a form – set the form action to “#”
 # TODO: Include a table or a list
