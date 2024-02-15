@@ -46,13 +46,13 @@ header{
 .bannertag {
     font-size: 35px;
     color: rgb(0, 1, 0); /*black*/
-    line-height: 150px;
+    line-height: normal;
     font-weight: 100;
 }
 .bannerh1 {
     font-size: 42px;
     color: rgb(0, 1, 0); /*black*/
-    line-height: 40;
+    line-height: 100px;
     text-transform: uppercase;
     font-weight: 100;
 }
