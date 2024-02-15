@@ -1,6 +1,6 @@
 
 a:hover {
-  color: B4D2E7;
+  color: rgb(180, 210, 231);
 }
 
 .header {
@@ -10,7 +10,7 @@ a:hover {
 }
 
 body{
-  background-color: 000100;
+  background-color: rgb(0, 1, 0);
   font-family: helvetica, arial, sans-serif;
   font-size: 16px;
   padding-top: 330px;
@@ -19,7 +19,7 @@ body{
 header{
   width: 100%;
   height: 300px;
-  background-color: 94C5CC;
+  background-color: rgb(148, 197, 204);
   text-align: center;
   position: relative;
   position: fixed;
