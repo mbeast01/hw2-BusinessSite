@@ -1,20 +1,4 @@
 
-a:hover {
-  color: rgb(180, 210, 231);
-}
-
-.header {
-  position: fixed;
-  bottom: 0;
-  right: 0;
-}
-
-body{
-  background-color: rgb(0, 1, 0);
-  font-family: helvetica, arial, sans-serif;
-  font-size: 16px;
-  padding-top: 330px;
-}
 
 header{
   width: 100%;
@@ -30,6 +14,12 @@ header{
     color: rgb(161, 166, 180);
     line-height: 230px;
     text-transform: uppercase;
+    font-weight: 100;
+  }
+  h2{
+    font-size: 30px;
+    color: rgb(161, 166, 180);
+    line-height: 200px;
     font-weight: 100;
   }
   nav{
