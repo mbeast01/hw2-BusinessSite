@@ -1,6 +1,6 @@
 
 body{
-  background-color: rgb(161, 166, 180);
+  background-color: rgb(161, 166, 180); /*grey*/
     
 }
 
@@ -33,9 +33,9 @@ header{
     height: 60px;
     line-height: 60px;
     width: 100%;
-    background-color: rgb(161, 166, 180); /*grey*/
+    background-color: rgb(180, 210, 231); /*light blue*/
     a{
-      color: rgb(180, 210, 231);
+      color: rgb(0, 1, 0);
       display: inline-block;
       padding: 10px 15px;
       line-height: 1;
