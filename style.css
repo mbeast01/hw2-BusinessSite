@@ -31,19 +31,6 @@ header{
     font-weight: 100;
   }
   
-  h1{
-    font-size: 42px;
-    color: rgb(161, 166, 180); /*grey*/
-    line-height: 230px;
-    text-transform: uppercase;
-    font-weight: 100;
-  }
-  h2{
-    font-size: 30px;
-    color: rgb(161, 166, 180); /*grey*/
-    line-height: normal;
-    font-weight: 100;
-  }
   nav{
     position: absolute;
     bottom: 0;
