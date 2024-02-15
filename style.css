@@ -20,9 +20,6 @@ body{
   height: 300px;
   background-color: rgb(148, 197, 204); /*teal*/
   text-align: center;
-  position: relative;
-  position: fixed;
-  top: 0;
   
   .bannertag {
     font-size: 15px;
