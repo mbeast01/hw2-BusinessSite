@@ -24,7 +24,7 @@ header{
   h2{
     font-size: 30px;
     color: rgb(161, 166, 180); /*grey*/
-    line-height: 200px;
+    line-height: normal;
     font-weight: 100;
   }
   nav{
@@ -52,7 +52,7 @@ header{
 .bannerh1 {
     font-size: 42px;
     color: rgb(0, 1, 0); /*black*/
-    line-height: 200px;
+    line-height: 40;
     text-transform: uppercase;
     font-weight: 100;
 }
