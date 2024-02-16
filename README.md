@@ -3,11 +3,11 @@
 
 # DONE: you must have at least 3 pages: a home page, a contact page and one other page.
 # DONE: Content must be realistic. Lorum Ipsum text is not acceptable. Ai generated content is ok but it MUST make sense. Ie, you will probably need to edit it.
-# TODO: You must have at least 10 CSS style rules
+# DONE: You must have at least 10 CSS style rules
 # TODO: You must have a form – set the form action to “#”
-# TODO: Include a table or a list
-# TODO: Links must have a hover effect
-# TODO: You must have an external stylesheet
+# DONE: Include a table or a list
+# DONE: Links must have a hover effect
+# DONE: You must have an external stylesheet
 # TODO: You must have an internal stylesheet on one of the pages
 # TODO: Include at least two images – one must be a background image. The file size of any images must be less than 60k unless it is for a banner – then it can be up to 120k.
 # TODO: You must include at least two fixed page elements to make the site look consistent - forexample: header, navigation, sidebar, or footer
